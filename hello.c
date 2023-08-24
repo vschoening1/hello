@@ -13,7 +13,8 @@ int main(int argc, char **argv) {
 
   printf("Vienna!\n");
   printf("Computer Engineering and Biological Systems Engineering Double Major\n");
-
+  printf("Naomi!\n");
+  printf("Computer science\n");
 
   return 0;
 }
