@@ -11,7 +11,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Vienna\n");
+  printf("Vienna!\n");
+  printf("Computer Engineering and Biological Systems Engineering Double Major\n");
 
 
   return 0;
